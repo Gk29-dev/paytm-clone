@@ -56,10 +56,10 @@
 
 ### Mobile View
 
-![website_view](./screenshots/screenshot-5.png)
+![mobile_view](./screenshots/screenshot-5.png)
 
 <br>
 
 ### Lablet View
 
-![website_view](./screenshots/screenshot-6.png)
+![lablet_view](./screenshots/screenshot-6.png)
