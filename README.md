@@ -52,14 +52,14 @@
 
 ![website_view](./screenshots/screenshot-1.png)
 
-<br>
+</br>
 
 ### Mobile View
 
-![mobile_view](./screenshots/screenshot-5.png)
+![mobile_view](./screenshots/Screenshot-5.png)
 
-<br>
+</br>
 
-### Lablet View
+### Tablet View
 
-![lablet_view](./screenshots/screenshot-6.png)
+![tablet_view](./screenshots/Screenshot-6.png)
